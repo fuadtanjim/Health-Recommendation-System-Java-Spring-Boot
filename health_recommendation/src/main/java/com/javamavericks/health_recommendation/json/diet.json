@@ -1,0 +1,26 @@
+{
+  "breakfast": "Oatmeal with Fruits",
+  "lunch": "Quinoa Salad",
+  "dinner": "Grilled Salmon with Vegetables",
+  "nutritionalInfo": {
+    "calories": 1200,
+    "protein": "55g",
+    "carbohydrates": "135g",
+    "fat": "47g",
+    "fiber": "20g"
+  }
+},
+{
+"breakfast": "Avocado Toast on Whole Grain Bread",
+"lunch": "Spinach and Strawberry Salad",
+"dinner": "Grilled Chicken with Quinoa and Steamed Broccoli",
+"nutritionalInfo": {
+"calories": 1000,
+"protein": "50g",
+"carbohydrates": "88g",
+"fat": "40g",
+"fiber": "15g"
+}
+}
+
+

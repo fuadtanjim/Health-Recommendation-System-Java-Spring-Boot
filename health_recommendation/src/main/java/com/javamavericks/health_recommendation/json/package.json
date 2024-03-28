@@ -1,0 +1,12 @@
+{
+  "name": "Progressive Muscle Relaxation",
+  "description": "A technique involving tensing and then relaxing different muscle groups to reduce physical tension before bed.",
+  "benefits": "Lowers physical stress, Eases the transition to sleep, Improves sleep quality",
+  "implementation_steps": "Start with your feet and work your way up to your face, Tense each muscle group for 5 seconds, then relax for 30 seconds, Repeat as needed until you feel relaxed"
+},
+{
+"name": "Consistent Sleep Schedule",
+"description": "Going to bed and waking up at the same time every day, even on weekends, to regulate your body's internal clock.",
+"benefits": "Improves sleep quality, Reduces time taken to fall asleep, Increases daytime alertness",
+"implementation_steps": "Determine a sleep schedule that allows for 7-9 hours of sleep, Use reminders to start winding down 1 hour before bed, Avoid sleeping in, even after a late night"
+}

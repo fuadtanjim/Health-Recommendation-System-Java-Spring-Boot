@@ -1,0 +1,17 @@
+{
+  "name": "Journaling",
+  "description": "Writing down thoughts and feelings to understand them more clearly and reduce stress.",
+  "frequency": "Daily or several times a week",
+  "durationMinutes": 15,
+  "benefits": "Improves emotional well-being, Reduces stress and anxiety, Enhances self-awareness",
+  "resources": "Writing prompts, Online journaling platforms"
+},
+
+{
+  "name": "Regular Physical Exercise",
+  "description": "Engaging in physical activities that you enjoy, such as walking, cycling, or yoga, to boost mood and reduce symptoms of depression and anxiety.",
+  "frequency": "3-5 times a week",
+  "duration_minutes": 30,
+  "benefits": "Boosts mood, Reduces anxiety and depression, Improves sleep quality",
+  "resources": "Local fitness groups, Exercise apps and online programs"
+}

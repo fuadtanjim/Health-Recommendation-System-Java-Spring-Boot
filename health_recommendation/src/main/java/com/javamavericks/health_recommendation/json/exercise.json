@@ -1,0 +1,18 @@
+{
+  "name": "Cycling",
+  "description": "Either outdoor cycling or stationary cycling can help lower LDL cholesterol and improve overall cardiovascular health.",
+  "intensity": "moderate to high",
+  "duration_minutes": 30,
+  "frequency": "4-5 times a week",
+  "benefits": "Boosts cardiovascular fitness, Aids in weight loss, Lowers body fat levels",
+  "equipment_needed": "Bicycle or stationary bike"
+},
+{
+  "name": "Weight Training",
+  "description": "Strengthens muscles and bones, improves metabolic rate, and can help in maintaining a healthy weight.",
+  "intensity": "moderate to high",
+  "duration_minutes": 30,
+  "frequency": "2-3 times a week",
+  "benefits": "Increases muscle mass, Boosts metabolism, Aids in body composition management",
+  "equipment_needed": "Free weights, machines"
+}
